@@ -1,0 +1,20 @@
+{
+  "appId": "com.burncare.app",
+  "appName": "Burn Care",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#f3f6fa"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0057b8",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false
+    }
+  }
+}
